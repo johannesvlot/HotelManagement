@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98a2c9e5-1e12-4b70-8bf6-bf86991e87bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HotelManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HotelManagement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="98a2c9e5-1e12-4b70-8bf6-bf86991e87bc" name="Default Changelist" comment="contact pagina aangemkaat en footer">
+      <change afterPath="$PROJECT_DIR$/public/assets/book.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/AboutController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/BookController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book/index.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contact/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact/index.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,8 +140,11 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UCDlUcaYeh5MAyJvHVzXfGBczT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -177,7 +181,16 @@
       <workItem from="1574851844266" duration="219000" />
       <workItem from="1574929235649" duration="743000" />
       <workItem from="1574935560971" duration="353000" />
+      <workItem from="1575014790277" duration="2224000" />
     </task>
+    <task id="LOCAL-00001" summary="contact pagina aangemkaat en footer">
+      <created>1574943811940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574943811940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,5 +222,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="contact pagina aangemkaat en footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact pagina aangemkaat en footer" />
   </component>
 </project>
